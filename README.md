@@ -54,5 +54,5 @@ Actual stock prices for both training and test datasets.
 
 Predicted stock prices on the test dataset.
 
-Conclusion
+Conclusion:
 This project showcases how machine learning, specifically LSTM models, can be used to predict stock prices based on historical data. The accuracy of the model can be further improved with more data and advanced tuning techniques.
