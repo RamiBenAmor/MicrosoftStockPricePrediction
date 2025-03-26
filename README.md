@@ -1,1 +1,1 @@
-# Music-recommandation
+# Microsoft Stock Price Prediction using LSTM
